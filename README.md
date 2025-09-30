@@ -1,2 +1,2 @@
 # servermods
-required mods for my server
+required mods for my private mc server
