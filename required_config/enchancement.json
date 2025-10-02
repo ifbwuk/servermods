@@ -1,4 +1,3 @@
-// download this inside .minecraft/config and replace/overwrite it
 {
   "disallowedEnchantments": [
     "minecraft:mending",
